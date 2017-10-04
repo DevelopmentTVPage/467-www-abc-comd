@@ -1,0 +1,15 @@
+{
+    "title": "xcv",
+    "baseURL": "https:\/\/www.abc.comd",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759037",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "abc.comd"
+    }
+}
